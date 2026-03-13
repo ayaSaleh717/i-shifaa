@@ -1,0 +1,102 @@
+{
+ 
+  "doctors": [
+    {
+      "id": 1,
+      "name": "د. أحمد محمد",
+      "specialty": "طب القلب",
+      "rating": 4.6,
+      "reviews": 142,
+      "location": "جبله",
+      "price": 150,
+      "available": true,
+      "lat": 24.7136,
+      "lng": 46.6753
+    },
+    {
+      "id": 2,
+      "name": "د. سارة العلي",
+      "specialty": "طب الأطفال",
+      "rating": 4.8,
+      "reviews": 98,
+      "location": "اللائقيه",
+      "price": 120,
+      "available": true,
+      "lat": 21.4858,
+      "lng": 39.1925
+    },
+    {
+      "id": 3,
+      "name": "د. خالد الحسن",
+      "specialty": "طب الأسرة",
+      "rating": 4.7,
+      "reviews": 210,
+      "location": "جبله",
+      "price": 100,
+      "available": false,
+      "lat": 26.3927,
+      "lng": 49.9777
+    },
+    {
+      "id": 4,
+      "name": "د. فاطمة الزهراء",
+      "specialty": "الأمراض الجلدية",
+      "rating": 4.9,
+      "reviews": 175,
+      "location": "جبله",
+      "price": 130,
+      "available": true,
+      "lat": 24.75,
+      "lng": 46.71
+    },
+    {
+      "id": 5,
+      "name": "د. عمر السعيد",
+      "specialty": "طب العيون",
+      "rating": 4.6,
+      "reviews": 89,
+      "location": "اللائقيه",
+      "price": 140,
+      "available": true,
+      "lat": 21.52,
+      "lng": 39.21
+    },
+    {
+      "id": 6,
+      "name": "د. نورة الفهد",
+      "specialty": "طب الأعصاب",
+      "rating": 4.8,
+      "reviews": 120,
+      "location": "جبله",
+      "price": 200,
+      "available": true,
+      "lat": 24.68,
+      "lng": 46.65
+    },
+    {
+      "id": 7,
+      "name": "د. ماجد العتيبي",
+      "specialty": "جراحة عامة",
+      "rating": 4.5,
+      "reviews": 67,
+      "location": "اللائقيه",
+      "price": 180,
+      "available": false,
+      "lat": 26.42,
+      "lng": 50.09
+    },
+    {
+      "id": 8,
+      "name": "د. هند الشمري",
+      "specialty": "أمراض نساء",
+      "rating": 4.9,
+      "reviews": 195,
+      "location": "اللائقيه",
+      "price": 160,
+      "available": true,
+      "lat": 21.45,
+      "lng": 39.18
+    }
+  ]
+}
+  
